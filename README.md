@@ -29,7 +29,7 @@ Designing predictive algorithms for systems where labelled failure data barely e
 - **Novel AI methodologies** — custom loss functions, theoretically grounded anomaly scoring (e.g. NLL via diffusion ELBO), and statistical signal selection frameworks; working at the level of how the model learns, not just what it trains on
 
 ---
-
+<!-- 
 ## Results
 
 | Prediction Task | Accuracy / Detection | Lead Time |
@@ -40,7 +40,7 @@ Designing predictive algorithms for systems where labelled failure data barely e
 | Pressure-based event detection | 100% capture | up to 18.6 min |
 | Pre-ignition detection (diffusion model) | AUROC 1.0 | 2.64 ms |
 
----
+--- -->
 
 ## Stack
 
