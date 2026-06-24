@@ -1,0 +1,61 @@
+# Rahul Agarwal
+
+**Applied AI Engineer · Predictive Analytics**
+
+I design and develop AI systems that predict failures in industrial environments — where anomalies are rare, sensors stream at high frequency, and a missed detection carries real consequences.
+
+---
+
+## Core Focus
+
+Designing predictive algorithms for systems where labelled failure data barely exists. The approach: train on normal behaviour, model the expected, flag the deviation — giving operators warning windows that range from milliseconds to hours.
+
+---
+
+## What I Build
+
+- **Anomaly detection systems** on high-frequency sensor streams under extreme class imbalance
+- **Generative AI pipelines** — diffusion models that forecast expected system behaviour and score divergence as an anomaly signal
+- **Real-time inference systems** — predictive algorithms designed to run on live data with hard latency constraints
+- **Zero-shot and cross-domain models** — systems that generalise to unseen operating conditions without retraining
+- **Novel AI methodologies** — custom loss functions, theoretically grounded anomaly scoring (e.g. NLL via diffusion ELBO), and statistical signal selection frameworks; working at the level of how the model learns, not just what it trains on
+
+---
+
+## Results
+
+| Prediction Task | Accuracy / Detection | Lead Time |
+|---|---|---|
+| Reactive flow anomaly forecasting | 96.1% | up to 22.7 units |
+| Thermoacoustic instability monitoring | 98.7% | 1.2 ms inference |
+| Cross-domain instability prediction | 88% | 59.1 ms |
+| Pressure-based event detection | 100% capture | up to 18.6 min |
+| Pre-ignition detection (diffusion model) | AUROC 1.0 | 2.64 ms |
+
+---
+
+## Stack
+
+`Python` · `PyTorch` · `Diffusion Models` · `Transformers` · `CNNs` · `LSTMs` · `Autoencoders` · `Gaussian Process Regression` · `Signal Processing` · `Docker` · `FastAPI`
+
+---
+
+## Featured Project
+
+**[PI_Detection](https://github.com/er-rahul-agarwal/PI_Detection)**  
+A diffusion model with a transformer denoising network — designed and built from scratch — that learns normal system dynamics and detects anomalies from forecast deviation. No failure examples used in training. Achieved perfect detection across 8,000 cycles with a 2.64 ms early warning window.
+
+---
+
+## Industry Collaborations
+
+- **Southwest Research Institute**, USA — Generative AI system for real-time anomaly detection
+- **Siemens Energy**, Canada — Cross-domain predictive algorithm for combustion instability
+- **UK Hydrogen Startup** — AI control system for autonomous thermal management
+
+*Supported by: Government of Alberta · MITACS · UK Research and Innovation*
+
+---
+
+**Ph.D., University of Calgary** · Open to roles in applied ML, predictive analytics, and industrial AI  
+📧 er.rahul.agarwal03@gmail.com · [LinkedIn](https://www.linkedin.com/in/rahul-agarwal-45a416113/)
