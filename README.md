@@ -58,5 +58,5 @@ Designing predictive algorithms for systems where labelled failure data barely e
 
 ---
 
-**Ph.D., University of Calgary** · Open to roles in applied ML, predictive analytics, and industrial AI  
+· Open to roles in applied ML, predictive analytics, and industrial AI  
 📧 er.rahul.agarwal03@gmail.com · [LinkedIn](https://www.linkedin.com/in/rahul-agarwal-45a416113/)
