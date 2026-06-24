@@ -6,6 +6,14 @@ I design and develop AI systems that predict failures in industrial environments
 
 ---
 
+## Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [PI_Detection](https://github.com/er-rahul-agarwal/PI_Detection) | Diffusion model for real-time anomaly detection — AUROC 1.0 across 8,000 cycles, 2.64 ms early warning | PyTorch · Diffusion · Transformers |
+
+---
+
 ## Core Focus
 
 Designing predictive algorithms for systems where labelled failure data barely exists. The approach: train on normal behaviour, model the expected, flag the deviation — giving operators warning windows that range from milliseconds to hours.
@@ -37,13 +45,6 @@ Designing predictive algorithms for systems where labelled failure data barely e
 ## Stack
 
 `Python` · `PyTorch` · `Diffusion Models` · `Transformers` · `CNNs` · `LSTMs` · `Autoencoders` · `Gaussian Process Regression` · `Signal Processing` · `Docker` · `FastAPI`
-
----
-
-## Featured Project
-
-**[PI_Detection](https://github.com/er-rahul-agarwal/PI_Detection)**  
-A diffusion model with a transformer denoising network — designed and built from scratch — that learns normal system dynamics and detects anomalies from forecast deviation. No failure examples used in training. Achieved perfect detection across 8,000 cycles with a 2.64 ms early warning window.
 
 ---
 
