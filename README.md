@@ -21,18 +21,6 @@ I design and develop AI systems that predict failures in industrial environments
 | [PI_Detection](https://github.com/er-rahul-agarwal/PI_Detection) | Diffusion model for real-time anomaly detection — AUROC 1.0 across 8,000 cycles, 2.64 ms early warning | PyTorch · Diffusion · Transformers |
 
 ---
-<!-- 
-## Results
-
-| Prediction Task | Accuracy / Detection | Lead Time |
-|---|---|---|
-| Reactive flow anomaly forecasting | 96.1% | up to 22.7 units |
-| Thermoacoustic instability monitoring | 98.7% | 1.2 ms inference |
-| Cross-domain instability prediction | 88% | 59.1 ms |
-| Pressure-based event detection | 100% capture | up to 18.6 min |
-| Pre-ignition detection (diffusion model) | AUROC 1.0 | 2.64 ms |
-
---- -->
 
 ## Stack
 
