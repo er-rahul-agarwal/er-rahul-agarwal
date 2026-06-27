@@ -1,6 +1,7 @@
 # Rahul Agarwal
-
 **Applied AI Engineer · AI Algorithm Developer · Predictive Analytics and Diagnostics**
+
+> Building AI systems that predict failures before they happen — in environments where getting it wrong has real consequences.
 
 I design and develop AI systems that predict failures in industrial environments — where anomalies are rare, sensors stream at high frequency, and a missed detection carries real consequences.
 
@@ -12,9 +13,10 @@ I design and develop AI systems that predict failures in industrial environments
 - **Generative AI pipelines** — diffusion models that forecast expected system behaviour and score divergence as an anomaly signal
 - **Real-time inference systems** — predictive algorithms designed to run on live data with hard latency constraints
 - **Zero-shot and cross-domain models** — systems that generalise to unseen operating conditions without retraining
-## Projects
 
 ---
+
+## Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -24,7 +26,9 @@ I design and develop AI systems that predict failures in industrial environments
 
 ## Stack
 
-`Python` · `PyTorch` · `Diffusion Models` · `Transformers` · `CNNs` · `LSTMs` · `Autoencoders` · `Gaussian Process Regression` · `Signal Processing` · `Docker` · `FastAPI`
+**ML & Modelling** · `Python` · `PyTorch` · `Diffusion Models` · `Transformers` · `CNNs` · `LSTMs` · `Autoencoders` · `Gaussian Process Regression`
+
+**Infra & Signals** · `Signal Processing` · `Docker` · `FastAPI`
 
 ---
 
@@ -34,9 +38,12 @@ I design and develop AI systems that predict failures in industrial environments
 - **Siemens Energy**, Canada — Cross-domain predictive algorithm for combustion instability
 - **UK Hydrogen Startup** — AI control system for autonomous thermal management
 
-*Supported by: Government of Alberta · MITACS · UK Research and Innovation*
+**Supported by:** Government of Alberta · MITACS · UK Research and Innovation
 
 ---
 
-- Open to roles in applied ML, predictive analytics, and industrial AI  
-📧 er.rahul.agarwal03@gmail.com - [LinkedIn](https://www.linkedin.com/in/rahul-agarwal-45a416113/)
+## Let's Connect
+
+Open to roles in applied ML, predictive analytics, and industrial AI.
+
+📧 er.rahul.agarwal03@gmail.com · [LinkedIn](https://www.linkedin.com/in/rahul-agarwal-45a416113/)
