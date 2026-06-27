@@ -1,16 +1,8 @@
 # Rahul Agarwal
 
-**Applied AI Engineer · Predictive Analytics**
+**Applied AI Engineer · AI Algorithm Development · Predictive Analytics**
 
 I design and develop AI systems that predict failures in industrial environments — where anomalies are rare, sensors stream at high frequency, and a missed detection carries real consequences.
-
----
-
-## Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [PI_Detection](https://github.com/er-rahul-agarwal/PI_Detection) | Diffusion model for real-time anomaly detection — AUROC 1.0 across 8,000 cycles, 2.64 ms early warning | PyTorch · Diffusion · Transformers |
 
 ---
 
@@ -20,7 +12,13 @@ I design and develop AI systems that predict failures in industrial environments
 - **Generative AI pipelines** — diffusion models that forecast expected system behaviour and score divergence as an anomaly signal
 - **Real-time inference systems** — predictive algorithms designed to run on live data with hard latency constraints
 - **Zero-shot and cross-domain models** — systems that generalise to unseen operating conditions without retraining
-- **Novel AI methodologies** — custom loss functions, theoretically grounded anomaly scoring (e.g. NLL via diffusion ELBO), and statistical signal selection frameworks; working at the level of how the model learns, not just what it trains on
+## Projects
+
+---
+
+| Project | What it does | Stack |
+|---|---|---|
+| [PI_Detection](https://github.com/er-rahul-agarwal/PI_Detection) | Diffusion model for real-time anomaly detection — AUROC 1.0 across 8,000 cycles, 2.64 ms early warning | PyTorch · Diffusion · Transformers |
 
 ---
 <!-- 
