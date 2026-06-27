@@ -14,12 +14,6 @@ I design and develop AI systems that predict failures in industrial environments
 
 ---
 
-## Core Focus
-
-Designing predictive algorithms for systems where labelled failure data barely exists. The approach: train on normal behaviour, model the expected, flag the deviation — giving operators warning windows that range from milliseconds to hours.
-
----
-
 ## What I Build
 
 - **Anomaly detection systems** on high-frequency sensor streams under extreme class imbalance
