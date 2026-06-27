@@ -3,6 +3,8 @@
 
 > Building AI systems that predict failures before they happen — in industrial environments where anomalies are rare, sensors generate high-frequency data, and a missed detection has real-world consequences.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Applied+AI+Engineer;AI+Algorithm+Developer;Predictive+Analytics)](https://git.io/typing-svg)
+
 ---
 
 ## What I Build
