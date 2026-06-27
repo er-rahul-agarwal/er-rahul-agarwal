@@ -1,9 +1,8 @@
 # Rahul Agarwal
+
 **Applied AI Engineer · AI Algorithm Developer · Predictive Analytics and Diagnostics**
 
-> Building AI systems that predict failures before they happen — in environments where getting it wrong has real consequences.
-
-> I design and develop AI systems that predict failures in industrial environments — where anomalies are rare, sensors stream at high frequency, and a missed detection carries real consequences.
+> Building AI systems that predict failures before they happen — in industrial environments where anomalies are rare, sensors generate high-frequency data, and a missed detection has real-world consequences.
 
 ---
 
