@@ -1,5 +1,5 @@
 # Rahul Agarwal
-**Applied AI Engineer · AI Algorithm Developer · Predictive Analytics and Diagnostics**
+**Applied AI Engineer and Developer · Predictive Analytics and Diagnostics**
 
 I design and develop AI systems that predict failures in industrial environments — where anomalies are rare, sensors stream at high frequency, and a missed detection carries real consequences.
 
