@@ -2,7 +2,7 @@
 <h3 align="center">Applied AI Engineer · Predictive Analytics & Diagnostics for Industrial Systems</h3>
 
 <p align="center">
-I build AI systems that predict failures before they happen — on high-frequency sensor data, under extreme class imbalance, with hard latency constraints. My models have run on real hydrogen engines and gas turbines with industry partners like Siemens Energy and Southwest Research Institute.
+I build AI systems that predict failures before they happen — on high-frequency sensor data, under extreme class imbalance, with hard latency constraints.
 </p>
 
 <p align="center">
