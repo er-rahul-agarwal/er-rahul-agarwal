@@ -1,5 +1,5 @@
 <h1 align="center">Rahul Agarwal, PhD</h1>
-<h3 align="center">Applied AI Engineer · Predictive Analytics & Diagnostics for Industrial Systems</h3>
+<h3 align="center">Applied AI Engineer & Developer · Predictive Analytics & Diagnostics for Industrial Systems</h3>
 
 <p align="center">
 I build AI systems that predict failures before they happen — on high-frequency sensor data, under extreme class imbalance, with hard latency constraints.
