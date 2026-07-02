@@ -5,6 +5,20 @@ I design and develop AI systems that predict failures in industrial environments
 
 ---
 
+<h1 align="center">Rahul Agarwal, PhD</h1>
+<h3 align="center">Applied AI Engineer · Predictive Analytics & Diagnostics for Industrial Systems</h3>
+
+<p align="center">
+I build AI systems that predict failures before they happen — on high-frequency sensor data, under extreme class imbalance, with hard latency constraints. My models have run on real hydrogen engines and gas turbines with industry partners like Siemens Energy and Southwest Research Institute.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rahul-agarwal-45a416113/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="mailto:er.rahul.agarwal03@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Location-Calgary%2C%20Canada%20(open%20to%20relocate)-lightgrey?style=flat">
+</p>
+
+
 ## What I Build
 
 - **Anomaly detection systems** on high-frequency sensor streams under extreme class imbalance
