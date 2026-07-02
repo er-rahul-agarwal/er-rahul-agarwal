@@ -49,7 +49,6 @@ I build AI systems that predict failures before they happen — on high-frequenc
 | Project | What it does | Result | Stack |
 |---|---|---|---|
 | [PI_Detection](https://github.com/er-rahul-agarwal/PI_Detection) | Diffusion model for real-time pre-ignition anomaly detection in hydrogen engines | AUROC 1.0 across 8,000 cycles, 2.64 ms early warning | `PyTorch` `Diffusion` `Transformers` |
-| Flashback Prediction ([paper](https://arxiv.org/abs/2508.04301)) | CNN + recurrence analysis framework to predict flashback in hydrogen combustors | 92.9–96.1% accuracy, up to 22.7 units forecast lead time | `PyTorch` `CNN` `Recurrence Analysis` |
 | Thermoacoustic Instability Predictor | Autoencoder processing 485M+ pressure sensor readings from gas turbines | Predicted all instability events, 1.7–18.6 min lead time, 3 ms inference | `Autoencoder` `Signal Processing` |
 | Flame Instability Monitor | CNN-LSTM hybrid on flame chemiluminescence imagery for real-time transition detection | 98.7% accuracy, 1.2 ms/frame | `CNN` `LSTM` |
 
@@ -68,14 +67,6 @@ I build AI systems that predict failures before they happen — on high-frequenc
 **Modelling:** Diffusion Models · Transformers · CNNs · LSTMs · Autoencoders · Gaussian Process Regression · Markov Models
 **Domain:** Signal Processing · Time-Series Forecasting · Synthetic Data Generation (LES simulation)
 **Standards:** IEC 61508 (Functional Safety) · UL 4600 (Autonomous System Safety) · ISO/IEC 5338 & 23894 (AI Lifecycle & Risk Management)
-
----
-
-## Publications & Recognition
-
-- Agarwal & Mohamad, *"Extreme Event Precursor Prediction in Turbulent Dynamical Systems via CNN-Augmented Recurrence Analysis,"* PNAS (under revision)
-- Agarwal & Mohamad, *"Zero-shot prediction of thermoacoustic instability via CNN-based phase-space learning,"* International Symposium on Combustion (abstract accepted)
-- Alberta Graduate Excellence Scholarship — International (2023) · MITACS Accelerate Fellowship (2021–2022)
 
 ---
 
